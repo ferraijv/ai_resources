@@ -4,6 +4,10 @@ Very subjective list of AI resources I'm compiling to keep track of AI developme
 
 ---
 
+## Core Concepts
+
+- [Attention is All You Need](https://arxiv.org/abs/1706.03762)
+
 ## Foundational Models
 
 - [ChatGPT](https://chatgpt.com/)
@@ -22,5 +26,12 @@ Very subjective list of AI resources I'm compiling to keep track of AI developme
 - [OpenAI's Codex](https://openai.com/codex/)
 - [Claude Code](https://www.anthropic.com/claude-code)
 
-## IDE
+## AI-Powered IDEs
 - [Cursor](https://cursor.com/en)
+- [Aider](https://aider.chat/)
+
+## Developer Tools
+- [LangChain](https://www.langchain.com/)
+
+## Podcasts
+- [Hard Fork](https://www.nytimes.com/column/hard-fork)
