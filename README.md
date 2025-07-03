@@ -20,6 +20,7 @@ Very subjective list of AI resources I'm compiling to keep track of AI developme
 ## Agents
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli)
 - [OpenAI's Codex](https://openai.com/codex/)
+- [Claude Code](https://www.anthropic.com/claude-code)
 
 ## IDE
 - [Cursor](https://cursor.com/en)
